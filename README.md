@@ -9,7 +9,7 @@ Firstly, Should to add localhost in your own "system32 host" i will drop it down
 3) open terminal cd desktop cd docker-yii2, docker-compose up --build enter
 4) docker ls   <-  this command show you status docker it works or not
 5) open browzer write there backend.tmp.loc/ or frontend.tmp.loc/
-6) at the end, docker ps -> choose php container and -> compose install
+6) at the end, in order to create vendor folder write in terminal this commands -> docker ps -> choose php container and -> compose install
 
 thats all thanks!
 
