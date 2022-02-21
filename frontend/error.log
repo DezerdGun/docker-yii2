@@ -1,0 +1,2 @@
+2022/02/21 10:17:38 [error] 34#34: *1 directory index of "/var/www/html/frontend/web/" is forbidden, client: 172.19.0.1, server: frontend.tmp.loc, request: "GET / HTTP/1.1", host: "frontend.tmp.loc"
+2022/02/21 10:17:59 [error] 31#31: *3 directory index of "/var/www/html/frontend/web/" is forbidden, client: 172.19.0.1, server: frontend.tmp.loc, request: "GET / HTTP/1.1", host: "frontend.tmp.loc"
